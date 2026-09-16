@@ -1,5 +1,5 @@
 # Stock Market Behaviour Prediction using Machine Learning
-
+🚀 **Live Demo:** [Open the Streamlit App]([https://your-app-name.streamlit.app/](https://stock-market-behaviour-predictions-using-ml-3qht4bpvggfwypxnl7.streamlit.app/))
 ## Project Overview
 
 This project is a machine learning-based web application that predicts stock market behaviour using historical stock price data.
